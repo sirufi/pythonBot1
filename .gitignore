@@ -1,0 +1,14 @@
+# venv
+.venv/
+venv/
+
+# secrets
+.env
+
+# python
+pycache/
+*.pyc
+
+# optionally hide uploads/logs
+data/
+
